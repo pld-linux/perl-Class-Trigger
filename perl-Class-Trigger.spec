@@ -6,7 +6,8 @@ Summary(pl):	Class:Trigger - dodawanie / wo³anie dziedziczalnych triggerów
 Name:		perl-Class-Trigger
 Version:	0.08
 Release:	3
-License:	GPL or Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	1eadf9b7b6ef8f61027b74b003856244
