@@ -1,12 +1,12 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Class
 %define	pnam	Trigger
-Summary:	%{pdir}::%{pnam} - Mixin to add / call inheritable triggers
-Summary(pl):	%{pdir}::%{pnam} - dodawanie / wo³anie dziedziczalnych triggerów
-Name:		perl-%{pdir}-%{pnam}
+Summary:	Class:Trigger - mixin to add / call inheritable triggers
+Summary(pl):	Class:Trigger - dodawanie / wo³anie dziedziczalnych triggerów
+Name:		perl-Class-Trigger
 Version:	0.08
-Release:	1
-License:	GPL/Artistic
+Release:	3
+License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 BuildRequires:	perl-devel >= 5
