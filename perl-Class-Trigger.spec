@@ -28,7 +28,7 @@ Class:Trigger jest klas± s³u¿±c± do dodawania i wywo³ywania triggerów
 %build
 %{__perl} Makefile.PL
 %{__make}
-#%{__make} test
+#%%{__make} test
 
 %install
 rm -rf $RPM_BUILD_ROOT
