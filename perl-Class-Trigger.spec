@@ -28,7 +28,7 @@ Class:Trigger jest klas± s³u¿±c± do dodawania i wywo³ywania triggerów
 
 %build
 %{__perl} Makefile.PL \
-	INSTALLDIRS=vendor 
+	INSTALLDIRS=vendor
 %{__make}
 #%%{__make} test
 
