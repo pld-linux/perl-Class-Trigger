@@ -29,7 +29,7 @@ Class::Trigger is a mixin class to add / call triggers (or hooks) that
 get called at some points you specify.
 
 %description -l pl
-Class:Trigger jest klas± s³u¿±c± do dodawania i wywo³ywania triggerów
+Class::Trigger jest klas± s³u¿±c± do dodawania i wywo³ywania triggerów
 (lub hooków), które s± wywo³ywane w podanych miejscach.
 
 %prep
