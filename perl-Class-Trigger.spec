@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Class
-%define	pnam	Trigger
+%define		pdir	Class
+%define		pnam	Trigger
 Summary:	Class:Trigger - mixin to add / call inheritable triggers
 Summary(pl):	Class:Trigger - dodawanie / wo³anie dziedziczalnych triggerów
 Name:		perl-Class-Trigger
