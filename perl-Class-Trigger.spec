@@ -4,7 +4,7 @@
 Summary:	%{pdir}::%{pnam} - Mixin to add / call inheritable triggers
 Summary(pl):	%{pdir}::%{pnam} - dodawanie / wo³anie dziedziczalnych triggerów
 Name:		perl-%{pdir}-%{pnam}
-Version:	0.07
+Version:	0.08
 Release:	1
 License:	GPL/Artistic
 Group:		Development/Languages/Perl
