@@ -8,13 +8,13 @@
 Summary:	Class:Trigger - mixin to add / call inheritable triggers
 Summary(pl):	Class:Trigger - dodawanie / wo³anie dziedziczalnych triggerów
 Name:		perl-Class-Trigger
-Version:	0.08
-Release:	3
+Version:	0.09
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	1eadf9b7b6ef8f61027b74b003856244
+# Source0-md5:	7f7ce8d219003dcf64258d5da78d2d47
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 %if %{with tests}
