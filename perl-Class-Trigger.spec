@@ -6,7 +6,7 @@
 %define		pdir	Class
 %define		pnam	Trigger
 Summary:	Class:Trigger - mixin to add / call inheritable triggers
-Summary(pl):	Class:Trigger - dodawanie / wo³anie dziedziczalnych triggerów
+Summary(pl.UTF-8):   Class:Trigger - dodawanie / woÅ‚anie dziedziczalnych triggerÃ³w
 Name:		perl-Class-Trigger
 Version:	0.10
 Release:	1
@@ -29,9 +29,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Class::Trigger is a mixin class to add / call triggers (or hooks) that
 get called at some points you specify.
 
-%description -l pl
-Class::Trigger jest klas± s³u¿±c± do dodawania i wywo³ywania triggerów
-(lub hooków), które s± wywo³ywane w podanych miejscach.
+%description -l pl.UTF-8
+Class::Trigger jest klasÄ… sÅ‚uÅ¼Ä…cÄ… do dodawania i wywoÅ‚ywania triggerÃ³w
+(lub hookÃ³w), ktÃ³re sÄ… wywoÅ‚ywane w podanych miejscach.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
