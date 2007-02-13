@@ -6,7 +6,7 @@
 %define		pdir	Class
 %define		pnam	Trigger
 Summary:	Class:Trigger - mixin to add / call inheritable triggers
-Summary(pl.UTF-8):   Class:Trigger - dodawanie / wołanie dziedziczalnych triggerów
+Summary(pl.UTF-8):	Class:Trigger - dodawanie / wołanie dziedziczalnych triggerów
 Name:		perl-Class-Trigger
 Version:	0.10
 Release:	1
