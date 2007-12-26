@@ -13,7 +13,7 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Class-Trigger/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Class/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	d9e507de9241d8b2b83a6eb11156d276
 URL:		http://search.cpan.org/dist/Class-Trigger/
 BuildRequires:	perl-devel >= 1:5.8.0
